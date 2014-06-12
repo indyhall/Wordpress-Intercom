@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-0": {
+            "IndyHall": "lib/"
+        }
+    },
+    "require": {
+        "twilio/sdk": "3.12.*"
+    }
+}
